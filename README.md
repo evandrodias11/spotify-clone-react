@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:<br/>
 ## 💻 Projeto
 
 Clone da landing page do spotify com React</br>
-Disponível <a href='https://evandrodias11.github.io/spotify-clone/' target='_blank'>aqui</a></br>
+Disponível <a href='https://clone-spotify-react.netlify.app/' target='_blank'>aqui</a></br>
 
 Versão do projeto em html, css e js <a href="https://github.com/evandrodias11/spotify-clone">aqui</a>
 
