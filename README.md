@@ -20,7 +20,7 @@ Aplicação desenvolvida durante a imersao Alura.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:<br/>
 
 - React + Vite
 
